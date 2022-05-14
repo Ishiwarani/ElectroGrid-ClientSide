@@ -141,8 +141,8 @@
           <div class="col-xs-6 col-md-3">
             <h6>Quick Links</h6>
             <ul class="footer-links">
-              <li><a href="Login.jsp">Customer Management</a></li>
-              <li><a href="Login.jsp">Supplier Management</a></li>
+              <li><a href="Login.jsp">Feedback Management</a></li>
+            
             </ul>
           </div>
         </div>
